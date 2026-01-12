@@ -32,30 +32,11 @@ The app focuses on a clean UI and basic task management features, making it easy
 
 ---
 
-## 📂 Project Structure
+
+## Project Structure
 
 
-StudyPlanner/
-├── app/
-│ └── src/
-│ └── main/
-│ ├── java/com/example/studyplanner/
-│ │ ├── LoginActivity.java
-│ │ ├── MainActivity.java
-│ │ └── TaskAdapter.java
-│ ├── res/
-│ │ ├── layout/
-│ │ │ ├── activity_login.xml
-│ │ │ ├── activity_main.xml
-│ │ │ └── item_task.xml
-│ │ └── drawable/
-│ │ └── bg_books.jpg
-│ └── AndroidManifest.xml
-├── build.gradle.kts
-├── settings.gradle.kts
-├── gradlew
-├── gradlew.bat
-└── README.md
+
 
 
 
