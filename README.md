@@ -77,6 +77,10 @@ app/
 *Dark mode support
 
 👤 Author
+
 Veeraboina Gowri
+
 Bachelor of Technology – Computer Science and Engineering
+
 Lovely Professional University, Punjab, India
+
